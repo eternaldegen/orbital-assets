@@ -1,21 +1,9 @@
 {
-  "name": "Orbital Token List",
-  "tags": {
-    "utility-token": {
-      "name": "Utility Token",
-      "description": "Used to unlock features in Orbital"
-    }
-  },
-  "timestamp": "2025-06-14T00:00:00Z",
-  "tokens": [
-    {
-      "chainId": 101,
-      "address": "EvBr7Q1fJUMYT8MNqbeAFVikr4hh3MaKddDdoBB2w3Xx",
-      "symbol": "ORBITAL",
-      "name": "Orbital Token",
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/eternaldegen/orbital-assets/main/orbitaltransparent.png",
-      "tags": ["utility-token"]
-    }
-  ]
+  "chainId": 101,
+  "address": "EvBr7Q1fJUMYT8MNqbeAFVikr4hh3MaKddDdoBB2w3Xx",
+  "symbol": "ORBITAL",
+  "name": "Orbital Token",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/eternaldegen/orbital-assets/main/orbitaltransparent.png",
+  "tags": ["utility-token"]
 }
